@@ -1,4 +1,3 @@
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4d2c9658-e25e-4dd6-9c56-932447f29482/ddio625-88c6c961-13c1-43ee-a08f-3c3ceeb7f053.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzRkMmM5NjU4LWUyNWUtNGRkNi05YzU2LTkzMjQ0N2YyOTQ4MlwvZGRpbzYyNS04OGM2Yzk2MS0xM2MxLTQzZWUtYTA4Zi0zYzNjZWViN2YwNTMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1Shjpe-XOI7ativXu5UeoPDRzJkK_mAkgdJdHTEVSQM" alt="MasterHead">
 <h1 align="center">Hi 👋, I'm Saidil Halim</h1>
 <h3 align="center">A software engineering student at Universitas Gadjah Mada with a passion for frontend development and a strong interest in machine learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f0/f0/d9/f0f0d932d6e39c7af5aa305cbd8da735.gif">
