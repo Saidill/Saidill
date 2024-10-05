@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidill&label=Profile%20views&color=0e75b6&style=flat" alt="saidill" /> </p>
 
-- 🌱 I’m currently learning **Docker,Tensorflow,Pytorch**
-
 - 👨‍💻 All of my projects are available at [https://saidilh.vercel.app/](https://saidilh.vercel.app/)
 
 - 💬 Ask me about **Javascript,Python,... or anythin**
